@@ -6,8 +6,8 @@
 
 Kubernetes is an open-source container orchestration system for automating deployment, scaling, and management of containerized applications. In this skill tree, you'll learn how to use Kubernetes to deploy and manage applications on a cluster of machines.
 
-|   Index | Name                                               | Difficulty   | Tutorial                                                                                            |
-|---------|----------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Difficulty   | Tutorial                                                                                           |
+|---------|---------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First Kubernetes Lab                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-kubernetes-lab-92733)                      |
 |      02 | 📖 Display Cluster Info                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/display-cluster-info-8426)                            |
 |      03 | 📖 Examine Nodes with Kubectl                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/examine-nodes-with-kubectl-9790)                      |
@@ -76,7 +76,8 @@ Kubernetes is an open-source container orchestration system for automating deplo
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kubernetes Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Kubernetes Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
