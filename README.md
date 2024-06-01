@@ -23,9 +23,9 @@ Kubernetes is an open-source container orchestration system for automating deplo
 |      13 | 📖 Kubernetes Expose Command                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-expose-command-8452)                       |
 |      14 | 📖 Kubernetes Run Command                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-run-command-8456)                          |
 |      15 | 📖 Kubernetes Set Command                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-set-command-8424)                          |
-|      16 | 📖 Running Pod with Daemonsets                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-running-pod-with-daemonsets-8454)                     |
-|      17 | 📖 Scheduing with Node Affinity                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-scheduing-with-node-affinity-18468)                   |
-|      18 | 📖 Kubernetes Cluster Architecture Exploration     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-cluster-architecture-exploration-8450)     |
+|      16 | 📖 Kubernetes Cluster Architecture Exploration     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-cluster-architecture-exploration-8450)     |
+|      17 | 📖 Running Pod with Daemonsets                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-running-pod-with-daemonsets-8454)                     |
+|      18 | 📖 Scheduing with Node Affinity                    | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-scheduing-with-node-affinity-18468)                   |
 |      19 | 📖 Scheduing with Node Selectors                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-scheduing-with-node-selectors-15001)                  |
 |      20 | 📖 Modify Kubeconfig Files                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-modify-kubeconfig-files-11297)                        |
 |      21 | 📖 Role-Based Access Control on Kubernetes         | ★★☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-role-based-access-control-on-kubernetes-9203)         |
@@ -36,14 +36,14 @@ Kubernetes is an open-source container orchestration system for automating deplo
 |      26 | 📖 Kubernetes Dashboard Deployment and Management  | ★★☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-dashboard-deployment-and-management-15042) |
 |      27 | 📖 Kubernetes Display Resource Usage               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-display-resource-usage-11358)              |
 |      28 | 📖 Kubernetes Taint Command                        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-taint-command-9195)                        |
-|      29 | 📖 Kubernetes Resource Quota Management            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-resource-quota-management-15823)           |
-|      30 | 📖 Kubernetes Describe Command                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-describe-command-8101)                     |
-|      31 | 📖 Kubernetes LimitRange Resource Management       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-limitrange-resource-management-15819)      |
-|      32 | 📖 Containerprobe in Kubernetes                    | ★★☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-containerprobe-in-kubernetes-12263)                   |
-|      33 | 📖 Run Pods with Jobs and Cronjobs                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-run-pods-with-jobs-and-cronjobs-11300)                |
-|      34 | 📖 Kubernetes Exec Command                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-exec-command-8502)                         |
-|      35 | 📖 Use Statefulsets Controller                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-use-statefulsets-controller-9205)                     |
-|      36 | 📖 Kubernetes Annotate Command                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-annotate-command-9679)                     |
+|      29 | 📖 Kubernetes Describe Command                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-describe-command-8101)                     |
+|      30 | 📖 Kubernetes Resource Quota Management            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-resource-quota-management-15823)           |
+|      31 | 📖 Containerprobe in Kubernetes                    | ★★☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-containerprobe-in-kubernetes-12263)                   |
+|      32 | 📖 Kubernetes LimitRange Resource Management       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-limitrange-resource-management-15819)      |
+|      33 | 📖 Kubernetes Exec Command                         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-exec-command-8502)                         |
+|      34 | 📖 Run Pods with Jobs and Cronjobs                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-run-pods-with-jobs-and-cronjobs-11300)                |
+|      35 | 📖 Kubernetes Annotate Command                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-annotate-command-9679)                     |
+|      36 | 📖 Use Statefulsets Controller                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-use-statefulsets-controller-9205)                     |
 |      37 | 📖 Kubernetes Port Forward Command                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-kubernetes-port-forward-command-18494)                |
 |      38 | 📖 Configuring Apps with Configmaps                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-configuring-apps-with-configmaps-9689)                |
 |      39 | 📖 Taints and Tolerations                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/kubernetes-taints-and-tolerations-34029)                         |
@@ -52,26 +52,37 @@ Kubernetes is an open-source container orchestration system for automating deplo
 
 - [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 - [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 - [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
 - [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
 - [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
 - [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
 - [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
 - [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
 - [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
 - [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
-- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 - [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
 - [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
+- [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
+- [Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
 - [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 - [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 - [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
 - [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
 - [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
 - [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 - [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 - [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
 
 ## More
