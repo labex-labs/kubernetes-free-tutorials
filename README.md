@@ -1,9 +1,5 @@
 # Kubernetes Free Tutorials
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/RTAa3OE96ESn.png">
 </div>
@@ -14,9 +10,9 @@ Kubernetes is the leading container orchestration platform. This Skill Tree offe
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------|
 |      01 | [📖 Your First Kubernetes Lab](https://labex.io/tutorials/kubernetes-your-first-kubernetes-lab-391133)                                           | ★☆☆          | [🔗 View](https://labex.io/tutorials/kubernetes-your-first-kubernetes-lab-391133)                     |
 |      02 | [📖 Kubernetes Cluster Architecture](https://labex.io/tutorials/kubernetes-kubernetes-cluster-architecture-8450)                                 | ★☆☆          | [🔗 View](https://labex.io/tutorials/kubernetes-kubernetes-cluster-architecture-8450)                 |
-|      03 | [📖 Display Cluster Info](https://labex.io/tutorials/kubernetes-display-cluster-info-8426)                                                       | ★☆☆          | [🔗 View](https://labex.io/tutorials/kubernetes-display-cluster-info-8426)                            |
+|      03 | [📖 Display Kubernetes Cluster Information](https://labex.io/tutorials/kubernetes-display-kubernetes-cluster-information-8426)                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/kubernetes-display-kubernetes-cluster-information-8426)          |
 |      04 | [📖 Kubernetes Client and Server Version](https://labex.io/tutorials/kubernetes-kubernetes-client-and-server-version-9197)                       | ★☆☆          | [🔗 View](https://labex.io/tutorials/kubernetes-kubernetes-client-and-server-version-9197)            |
-|      05 | [📖 Kubernetes Dashboard Deployment and Management](https://labex.io/tutorials/kubernetes-kubernetes-dashboard-deployment-and-management-15042)  | ★★☆          | [🔗 View](https://labex.io/tutorials/kubernetes-kubernetes-dashboard-deployment-and-management-15042) |
+|      05 | [📖 Kubernetes Dashboard Management](https://labex.io/tutorials/kubernetes-kubernetes-dashboard-management-15042)                                | ★★☆          | [🔗 View](https://labex.io/tutorials/kubernetes-kubernetes-dashboard-management-15042)                |
 |      06 | [📖 Kubernetes Create Command](https://labex.io/tutorials/kubernetes-kubernetes-create-command-8506)                                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/kubernetes-kubernetes-create-command-8506)                       |
 |      07 | [📖 Kubernetes Run Command](https://labex.io/tutorials/kubernetes-kubernetes-run-command-8456)                                                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/kubernetes-kubernetes-run-command-8456)                          |
 |      08 | [📖 Kubernetes Expose Command](https://labex.io/tutorials/kubernetes-kubernetes-expose-command-8452)                                             | ★☆☆          | [🔗 View](https://labex.io/tutorials/kubernetes-kubernetes-expose-command-8452)                       |
@@ -59,31 +55,28 @@ Kubernetes is the leading container orchestration platform. This Skill Tree offe
 - [Practice Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
 - [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
-- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 - [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
-- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
-- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
 - [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
-- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
-- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
 - [Practice Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
 - [Practice Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
-- [Practice Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
-- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
-- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
 - [Practice MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- [Practice MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
 - [Practice Golang Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 - [Practice Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 - [Practice NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
 - [Practice scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
 - [Practice Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
-- [Practice Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
 - [Practice HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
 - [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 - [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 - [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [Practice MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
 
 
 ## More
